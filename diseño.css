@@ -1,0 +1,95 @@
+
+.contenedor{
+    width: 100%;
+    background: rgb(10, 189, 64);
+}
+
+.header{
+    padding-left: 15px;
+    width: 50%;
+    height: auto;
+    text-align: center;
+
+}
+
+.sider1{
+    width: 50%;
+    height: auto;
+}
+.campos {
+    font-family: Times New Roman;
+    font-size: 12px;
+}
+body {
+     background: rgb(0, 0, 0);
+}
+img{
+    width: 75%;
+    height: 30%;
+    text-align: center
+}
+
+.imgjack{
+    width: 105%;
+    height: 30%;
+    text-align: center
+}
+
+.video {
+        padding: 40px;
+        width: 60px;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        
+    
+}
+h1{
+    font-size: 40px;
+    font-family: Times New Roman;   
+    text-align: center;
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+}
+table{
+    color: aliceblue;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    justify-content: center;
+    
+    
+}
+p{
+    font-size: 18px;
+    font-family: Times New Roman;   
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+    font-family:Times New Roman;
+    font-size: 20px;
+}
+
+nav ul li a{
+    display: block;
+    color: white;
+    padding: 10px;
+}
+
+    .sider1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background: rgb(109,204,170);
+    }

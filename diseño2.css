@@ -1,0 +1,82 @@
+.contenedor{
+    width: 100%;
+    background: rgb(10, 189, 64);
+}
+
+.header{
+    padding-left: 15px;
+    width: 50%;
+    height: auto;
+    text-align: center;
+
+}
+
+.sider1{
+    width: 50%;
+    height: auto;
+}
+.campos {
+    font-family: Times New Roman;
+    font-size: 12px;
+}
+body {
+     background: rgb(0, 0, 0);
+}
+img{
+    width: 100%;
+    height: 100%;
+    text-align: middle;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Times New Roman;   
+    text-align: center;
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+}
+table{
+    color: aliceblue;
+    width: 35%;
+    height: 150%;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    justify-content: center;
+    text-align: left;
+    
+    
+}
+p{
+    font-size: 18px;
+    font-family: Times New Roman;   
+    text-align: center;
+    color: blanchedalmond;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+    font-family:Times New Roman;
+    font-size: 20px;
+}
+
+nav ul li a{
+    display: block;
+    color: white;
+    padding: 10px;
+}
+
+    .sider1{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background: rgb(109,204,170);
+    }
