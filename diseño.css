@@ -27,23 +27,8 @@ img{
     width: 75%;
     height: 30%;
     text-align: center
-}
+} 
 
-.imgjack{
-    width: 105%;
-    height: 30%;
-    text-align: center
-}
-
-.video {
-        padding: 40px;
-        width: 60px;
-        height: auto;
-        display: flex;
-        justify-content: center;
-        
-    
-}
 h1{
     font-size: 40px;
     font-family: Times New Roman;   
